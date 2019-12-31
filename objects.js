@@ -2,4 +2,6 @@ var playlist = {
   artistName : "Bob"
 }
 
-var 
+var updatePlaylist(playlist, artistName, songTitle) = {
+  
+}
